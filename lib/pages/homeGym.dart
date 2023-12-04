@@ -236,7 +236,7 @@ class AboutScreen extends StatelessWidget {
             shrinkWrap: true, 
             physics:
                 const NeverScrollableScrollPhysics(),
-            crossAxisCount: 1,
+            crossAxisCount: 2,
             padding: const EdgeInsets.all(16.0),
             mainAxisSpacing: 16.0,
             crossAxisSpacing: 16.0,
